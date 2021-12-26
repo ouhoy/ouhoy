@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ouhoy
 - 👀 I’m interested in Web/Mobile development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m working on a project called Tighri which is an online school hit me up if you're interested :)
+- 🌱 I’m currently practicing JS
+- 💞️ I’m working on a project called Tighri which is an online school :)
 - 📫 How to reach me IG: @Ouhoy or via email: kimkinon@gmail.com
 
 <!---
