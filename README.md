@@ -3,6 +3,7 @@
 - 🌱 I’m currently practicing JS
 - 💞️ I’m working on a project called Tighri which is an online school :)
 - 📫 How to reach me IG: @Ouhoy or via email: kimkinon@gmail.com
+- ⚒️ Main projects to look up: Tobelist
 
 <!---
 ouhoy/ouhoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
