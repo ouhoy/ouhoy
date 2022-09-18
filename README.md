@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ouhoy
+- 👋 Hi, I’m @ouhoy a software engineering student
 - 👀 I’m interested in Web development
 - 🌱 I’m currently practicing JS as always
 - 💞️ I’m working on two main projects Tobelist and Uptopack.
-- 📫 How to reach me IG: @Ouhoy or via email: kimkinon@gmail.com
+- 📫 How to reach me IG: @Ouhoy or via email: dahmou63@gmail.com
 - ⚒️ Main projects to look up: Tobelist -in development-
 
 <!---
