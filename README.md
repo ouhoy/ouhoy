@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ouhoy a Software Engineering student.
+- 👋 Hi, I’m @ouhoy a Software Engineering Student at Cardiff Met University.
 - 👀 I’m interested in Web development and how to delever quality software.
 - 🌱 I’m currently practicing JavaScript, TypeScript, and Python as always.
 - 💞️ I’m working on one main project which is Tobelist.
