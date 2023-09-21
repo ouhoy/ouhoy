@@ -3,7 +3,7 @@
 - 🌱 I’m currently practicing JavaScript, TypeScript, and Python as always.
 - 💞️ I’m working on one main project which is Tobelist.
 - 📫 How to reach me IG: @Ouhoy or via email: dahmou63@gmail.com
-- ⚒️ Main projects to look up: Tobelist -in development-
+- ⚒️ Main projects to look up: <b>tobelist.net</b> -Live- --in development--
 
 <!---
 ouhoy/ouhoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
