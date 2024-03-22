@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ouhoy a Software Engineering Student at Cardiff Met University working at JUDGE.ME Ltd Uk.
-- 👀 I’m interested in Web development and how to deliver quality software.
+- 👀 I’m interested in Web Development, Software Design and Analysis, and how to deliver quality software.
 - 🌱 I’m currently practicing Java, JavaScript/TypeScript, and Python as always.
 - 💞️ I’m working on one main project which is Tobelist.
 - 📫 You can reach out to me via LinkedIn: https://www.linkedin.com/in/abdallah-dahmou/
