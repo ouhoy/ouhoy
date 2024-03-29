@@ -3,7 +3,7 @@
 - 🌱 I’m currently practicing Java, JavaScript/TypeScript, and Python as always.
 - 💞️ I’m working on one main project which is Tobelist.
 - 📫 You can reach out to me via LinkedIn: https://www.linkedin.com/in/abdallah-dahmou/
-- ⚒️ Main projects to look up: <b><a href="http://omnihiring.onrender.com/" target="_blank">OmniHiring</a></b> <b>PWA Mobile Application</b>, VerdeShop
+- ⚒️ Main projects to look up: <b><a href="http://omnihiring.onrender.com/" target="_blank">OmniHiring</a></b> <b>PWA Mobile Application</b>, and VerdeShop Advanced Ecommerce Application
 
 <!---
 ouhoy/ouhoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
