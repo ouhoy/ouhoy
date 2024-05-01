@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ouhoy a Software Engineering Student at Cardiff Met University working at JUDGE.ME Ltd Uk.
-- ⚒️ Main projects to look up:<b><a href="https://kpoppack.vercel.app/" target="_blank">Kpoppack</a></b> <b>NuxtJs SEO Friendly Headless Worodpress News Blog</b>, <b><a href="https://verdeshop.onrender.com/" target="_blank">VerdeShop</a></b> <b>Advanced Ecommerce Application</b>, and <b><a href="http://omnihiring.onrender.com/" target="_blank">OmniHiring</a></b> <b>PWA Mobile Application</b>.
+- ⚒️ Main projects to look up:<b><a href="https://verdeshop.onrender.com/" target="_blank">VerdeShop</a></b> <b>Advanced Ecommerce Application</b>, <b><a href="https://kpoppack.vercel.app/" target="_blank">Kpoppack</a></b> <b>NuxtJs SEO Friendly Headless Worodpress News Blog</b>, and <b><a href="http://omnihiring.onrender.com/" target="_blank">OmniHiring</a></b> <b>PWA Mobile Application</b>.
 - 👀 I’m interested in Web Development, Software Design and Analysis, and how to deliver quality software.
 - 🌱 I’m currently practicing Java, JavaScript/TypeScript, and Web Design as always.
 - 💞️ I’m working on one main project which is Kpoppack.
